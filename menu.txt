@@ -1,0 +1,13 @@
+id
+наименование
+состав
+порция
+цена
+
+id
+name 
+composition
+portion
+price
+
+
